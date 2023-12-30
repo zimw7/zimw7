@@ -8,7 +8,7 @@ As a Computer Programming student at Algonquin College, I've journeyed from the 
 ## My Tech Stack
 - 💻 Programming Languages: Java, JavaScript, PHP, JSON, COBOL.
 - 🌐 Web Development: HTML, CSS, XML, Bootstrap, jQuery, React.
-- 💾 Database Management: SQL (MySQL, Oracle, MS Access, SQL Server), MongoDB.
+- 💾 Database Management: SQL (MySQL, Oracle, MS Access, Microsoft SQL Server), MongoDB, PostgreSQL, Oracle SQL Developer.
 - 🖥️ Operating Systems: Windows, Linux, Mac OS.
 - 🛠️ Tools: Git, VScode, Bash/Shell, XAMPP, Junit test, UML, Open Cobol IDE, Eclipse, IDEA, Visual Studio, GitHub, SQL Server, VMWare Workstation, Apache, FileZilla, Agile, Microsoft Office.
 - 🎨 Design Tools: Figma, Adobe Illustrator, Photoshop.
