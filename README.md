@@ -7,13 +7,13 @@ As a Computer Programming student at Algonquin College, I've journeyed from the 
 
 ## My Tech Stack
 - 💻 Programming Languages: Java, JavaScript, PHP, JSON, COBOL.
-- 🌐 Web Development: HTML, CSS, XML, Bootstrap, jQuery, React.
-- 💾 Database Management: SQL (MySQL, Oracle, MS Access, Microsoft SQL Server), MongoDB, PostgreSQL, Oracle SQL Developer.
-- 🖥️ Operating Systems: Windows, Linux, Mac OS.
-- 🛠️ Tools: Git, VScode, Bash/Shell, XAMPP, Junit test, UML, Open Cobol IDE, Eclipse, IDEA, Visual Studio, GitHub, SQL Server, VMWare Workstation, Apache, FileZilla, Agile, Microsoft Office.
+- 🌐 Web Development: HTML, CSS, XML, Bootstrap, TCP/IP.
+- 💾 Database Management: SQL (MySQL, Oracle, MS Access, Microsoft SQL Server), MongoDB, PL/SQL, Oracle SQL Developer, JDBC.
+- 🖥️ Operating Systems: Windows, GNU/Linux, Mac OS.
+- 🛠️ Tools: Git, Android Studio, VS Code, Bash/Shell, XAMPP, Junit test, UML, Open Cobol IDE, Eclipse, IntelliJ IDEA, GitHub, VMWare Workstation, Apache, Microsoft Office.
 - 🎨 Design Tools: Figma, Adobe Illustrator, Photoshop.
-- 📊 Project Management: Jira.
-- ☁️ AWS Certified Cloud Practitioner, knowledgeable in cloud computing and services.
+- 📊 Project Management: Agile, SDLC, Jira.
+- ☁️ Cloud: AWS Certified Cloud Practitioner, familiar with cloud computing concepts and services.
 
 ## Current Endeavors
 - 🔭 Working on diverse programming projects, exploring everything from web development to data management.
