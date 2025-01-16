@@ -4,7 +4,7 @@
 
 <p align="left">  
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
